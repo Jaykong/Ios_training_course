@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A914F0001BF1C0C20069042F"
+               BlueprintIdentifier = "336E24041BF471C500B3844C"
                BuildableName = "StoryBoard.app"
                BlueprintName = "StoryBoard"
                ReferencedContainer = "container:StoryBoard.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A914F0191BF1C0C20069042F"
+               BlueprintIdentifier = "336E241D1BF471C500B3844C"
                BuildableName = "StoryBoardTests.xctest"
                BlueprintName = "StoryBoardTests"
                ReferencedContainer = "container:StoryBoard.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A914F0241BF1C0C20069042F"
+               BlueprintIdentifier = "336E24281BF471C500B3844C"
                BuildableName = "StoryBoardUITests.xctest"
                BlueprintName = "StoryBoardUITests"
                ReferencedContainer = "container:StoryBoard.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A914F0001BF1C0C20069042F"
+            BlueprintIdentifier = "336E24041BF471C500B3844C"
             BuildableName = "StoryBoard.app"
             BlueprintName = "StoryBoard"
             ReferencedContainer = "container:StoryBoard.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A914F0001BF1C0C20069042F"
+            BlueprintIdentifier = "336E24041BF471C500B3844C"
             BuildableName = "StoryBoard.app"
             BlueprintName = "StoryBoard"
             ReferencedContainer = "container:StoryBoard.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A914F0001BF1C0C20069042F"
+            BlueprintIdentifier = "336E24041BF471C500B3844C"
             BuildableName = "StoryBoard.app"
             BlueprintName = "StoryBoard"
             ReferencedContainer = "container:StoryBoard.xcodeproj">
