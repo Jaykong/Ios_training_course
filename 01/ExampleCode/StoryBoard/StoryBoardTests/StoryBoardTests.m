@@ -2,8 +2,13 @@
 //  StoryBoardTests.m
 //  StoryBoardTests
 //
+<<<<<<< HEAD
 //  Created by 蒋英豪 on 15/11/12.
 //  Copyright © 2015年 蒋英豪. All rights reserved.
+=======
+//  Created by 736376103@qq.com on 15/11/12.
+//  Copyright © 2015年 736376103@qq.com. All rights reserved.
+>>>>>>> Jaykong/master
 //
 
 #import <XCTest/XCTest.h>

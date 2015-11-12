@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		550065251BF47219000C9BB0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 550065241BF47219000C9BB0 /* main.m */; };
 		550065281BF47219000C9BB0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 550065271BF47219000C9BB0 /* AppDelegate.m */; };
 		5500652B1BF47219000C9BB0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5500652A1BF47219000C9BB0 /* ViewController.m */; };
@@ -30,11 +31,37 @@
 			containerPortal = 550065181BF47219000C9BB0 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5500651F1BF47219000C9BB0;
+=======
+		336E240A1BF471C500B3844C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 336E24091BF471C500B3844C /* main.m */; };
+		336E240D1BF471C500B3844C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 336E240C1BF471C500B3844C /* AppDelegate.m */; };
+		336E24101BF471C500B3844C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 336E240F1BF471C500B3844C /* ViewController.m */; };
+		336E24131BF471C500B3844C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 336E24111BF471C500B3844C /* Main.storyboard */; };
+		336E24151BF471C500B3844C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 336E24141BF471C500B3844C /* Assets.xcassets */; };
+		336E24181BF471C500B3844C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 336E24161BF471C500B3844C /* LaunchScreen.storyboard */; };
+		336E24231BF471C500B3844C /* StoryBoardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 336E24221BF471C500B3844C /* StoryBoardTests.m */; };
+		336E242E1BF471C500B3844C /* StoryBoardUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 336E242D1BF471C500B3844C /* StoryBoardUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		336E241F1BF471C500B3844C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 336E23FD1BF471C500B3844C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 336E24041BF471C500B3844C;
+			remoteInfo = StoryBoard;
+		};
+		336E242A1BF471C500B3844C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 336E23FD1BF471C500B3844C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 336E24041BF471C500B3844C;
+>>>>>>> Jaykong/master
 			remoteInfo = StoryBoard;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		550065201BF47219000C9BB0 /* StoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		550065241BF47219000C9BB0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		550065261BF47219000C9BB0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -55,20 +82,50 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		5500651D1BF47219000C9BB0 /* Frameworks */ = {
+=======
+		336E24051BF471C500B3844C /* StoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		336E24091BF471C500B3844C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		336E240B1BF471C500B3844C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		336E240C1BF471C500B3844C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		336E240E1BF471C500B3844C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		336E240F1BF471C500B3844C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		336E24121BF471C500B3844C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		336E24141BF471C500B3844C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		336E24171BF471C500B3844C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		336E24191BF471C500B3844C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		336E241E1BF471C500B3844C /* StoryBoardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoryBoardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		336E24221BF471C500B3844C /* StoryBoardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoryBoardTests.m; sourceTree = "<group>"; };
+		336E24241BF471C500B3844C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		336E24291BF471C500B3844C /* StoryBoardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoryBoardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		336E242D1BF471C500B3844C /* StoryBoardUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StoryBoardUITests.m; sourceTree = "<group>"; };
+		336E242F1BF471C500B3844C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		336E24021BF471C500B3844C /* Frameworks */ = {
+>>>>>>> Jaykong/master
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+<<<<<<< HEAD
 		550065361BF47219000C9BB0 /* Frameworks */ = {
+=======
+		336E241B1BF471C500B3844C /* Frameworks */ = {
+>>>>>>> Jaykong/master
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+<<<<<<< HEAD
 		550065411BF47219000C9BB0 /* Frameworks */ = {
+=======
+		336E24261BF471C500B3844C /* Frameworks */ = {
+>>>>>>> Jaykong/master
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -78,6 +135,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+<<<<<<< HEAD
 		550065171BF47219000C9BB0 = {
 			isa = PBXGroup;
 			children = (
@@ -94,10 +152,29 @@
 				550065201BF47219000C9BB0 /* StoryBoard.app */,
 				550065391BF47219000C9BB0 /* StoryBoardTests.xctest */,
 				550065441BF47219000C9BB0 /* StoryBoardUITests.xctest */,
+=======
+		336E23FC1BF471C500B3844C = {
+			isa = PBXGroup;
+			children = (
+				336E24071BF471C500B3844C /* StoryBoard */,
+				336E24211BF471C500B3844C /* StoryBoardTests */,
+				336E242C1BF471C500B3844C /* StoryBoardUITests */,
+				336E24061BF471C500B3844C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		336E24061BF471C500B3844C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				336E24051BF471C500B3844C /* StoryBoard.app */,
+				336E241E1BF471C500B3844C /* StoryBoardTests.xctest */,
+				336E24291BF471C500B3844C /* StoryBoardUITests.xctest */,
+>>>>>>> Jaykong/master
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		550065221BF47219000C9BB0 /* StoryBoard */ = {
 			isa = PBXGroup;
 			children = (
@@ -110,32 +187,69 @@
 				550065311BF47219000C9BB0 /* LaunchScreen.storyboard */,
 				550065341BF47219000C9BB0 /* Info.plist */,
 				550065231BF47219000C9BB0 /* Supporting Files */,
+=======
+		336E24071BF471C500B3844C /* StoryBoard */ = {
+			isa = PBXGroup;
+			children = (
+				336E240B1BF471C500B3844C /* AppDelegate.h */,
+				336E240C1BF471C500B3844C /* AppDelegate.m */,
+				336E240E1BF471C500B3844C /* ViewController.h */,
+				336E240F1BF471C500B3844C /* ViewController.m */,
+				336E24111BF471C500B3844C /* Main.storyboard */,
+				336E24141BF471C500B3844C /* Assets.xcassets */,
+				336E24161BF471C500B3844C /* LaunchScreen.storyboard */,
+				336E24191BF471C500B3844C /* Info.plist */,
+				336E24081BF471C500B3844C /* Supporting Files */,
+>>>>>>> Jaykong/master
 			);
 			path = StoryBoard;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		550065231BF47219000C9BB0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				550065241BF47219000C9BB0 /* main.m */,
+=======
+		336E24081BF471C500B3844C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				336E24091BF471C500B3844C /* main.m */,
+>>>>>>> Jaykong/master
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		5500653C1BF47219000C9BB0 /* StoryBoardTests */ = {
 			isa = PBXGroup;
 			children = (
 				5500653D1BF47219000C9BB0 /* StoryBoardTests.m */,
 				5500653F1BF47219000C9BB0 /* Info.plist */,
+=======
+		336E24211BF471C500B3844C /* StoryBoardTests */ = {
+			isa = PBXGroup;
+			children = (
+				336E24221BF471C500B3844C /* StoryBoardTests.m */,
+				336E24241BF471C500B3844C /* Info.plist */,
+>>>>>>> Jaykong/master
 			);
 			path = StoryBoardTests;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		550065471BF47219000C9BB0 /* StoryBoardUITests */ = {
 			isa = PBXGroup;
 			children = (
 				550065481BF47219000C9BB0 /* StoryBoardUITests.m */,
 				5500654A1BF47219000C9BB0 /* Info.plist */,
+=======
+		336E242C1BF471C500B3844C /* StoryBoardUITests */ = {
+			isa = PBXGroup;
+			children = (
+				336E242D1BF471C500B3844C /* StoryBoardUITests.m */,
+				336E242F1BF471C500B3844C /* Info.plist */,
+>>>>>>> Jaykong/master
 			);
 			path = StoryBoardUITests;
 			sourceTree = "<group>";
@@ -143,6 +257,7 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+<<<<<<< HEAD
 		5500651F1BF47219000C9BB0 /* StoryBoard */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5500654D1BF47219000C9BB0 /* Build configuration list for PBXNativeTarget "StoryBoard" */;
@@ -150,6 +265,15 @@
 				5500651C1BF47219000C9BB0 /* Sources */,
 				5500651D1BF47219000C9BB0 /* Frameworks */,
 				5500651E1BF47219000C9BB0 /* Resources */,
+=======
+		336E24041BF471C500B3844C /* StoryBoard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 336E24321BF471C500B3844C /* Build configuration list for PBXNativeTarget "StoryBoard" */;
+			buildPhases = (
+				336E24011BF471C500B3844C /* Sources */,
+				336E24021BF471C500B3844C /* Frameworks */,
+				336E24031BF471C500B3844C /* Resources */,
+>>>>>>> Jaykong/master
 			);
 			buildRules = (
 			);
@@ -157,6 +281,7 @@
 			);
 			name = StoryBoard;
 			productName = StoryBoard;
+<<<<<<< HEAD
 			productReference = 550065201BF47219000C9BB0 /* StoryBoard.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -167,10 +292,23 @@
 				550065351BF47219000C9BB0 /* Sources */,
 				550065361BF47219000C9BB0 /* Frameworks */,
 				550065371BF47219000C9BB0 /* Resources */,
+=======
+			productReference = 336E24051BF471C500B3844C /* StoryBoard.app */;
+			productType = "com.apple.product-type.application";
+		};
+		336E241D1BF471C500B3844C /* StoryBoardTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 336E24351BF471C500B3844C /* Build configuration list for PBXNativeTarget "StoryBoardTests" */;
+			buildPhases = (
+				336E241A1BF471C500B3844C /* Sources */,
+				336E241B1BF471C500B3844C /* Frameworks */,
+				336E241C1BF471C500B3844C /* Resources */,
+>>>>>>> Jaykong/master
 			);
 			buildRules = (
 			);
 			dependencies = (
+<<<<<<< HEAD
 				5500653B1BF47219000C9BB0 /* PBXTargetDependency */,
 			);
 			name = StoryBoardTests;
@@ -185,20 +323,45 @@
 				550065401BF47219000C9BB0 /* Sources */,
 				550065411BF47219000C9BB0 /* Frameworks */,
 				550065421BF47219000C9BB0 /* Resources */,
+=======
+				336E24201BF471C500B3844C /* PBXTargetDependency */,
+			);
+			name = StoryBoardTests;
+			productName = StoryBoardTests;
+			productReference = 336E241E1BF471C500B3844C /* StoryBoardTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		336E24281BF471C500B3844C /* StoryBoardUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 336E24381BF471C500B3844C /* Build configuration list for PBXNativeTarget "StoryBoardUITests" */;
+			buildPhases = (
+				336E24251BF471C500B3844C /* Sources */,
+				336E24261BF471C500B3844C /* Frameworks */,
+				336E24271BF471C500B3844C /* Resources */,
+>>>>>>> Jaykong/master
 			);
 			buildRules = (
 			);
 			dependencies = (
+<<<<<<< HEAD
 				550065461BF47219000C9BB0 /* PBXTargetDependency */,
 			);
 			name = StoryBoardUITests;
 			productName = StoryBoardUITests;
 			productReference = 550065441BF47219000C9BB0 /* StoryBoardUITests.xctest */;
+=======
+				336E242B1BF471C500B3844C /* PBXTargetDependency */,
+			);
+			name = StoryBoardUITests;
+			productName = StoryBoardUITests;
+			productReference = 336E24291BF471C500B3844C /* StoryBoardUITests.xctest */;
+>>>>>>> Jaykong/master
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
+<<<<<<< HEAD
 		550065181BF47219000C9BB0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
@@ -219,6 +382,31 @@
 				};
 			};
 			buildConfigurationList = 5500651B1BF47219000C9BB0 /* Build configuration list for PBXProject "StoryBoard" */;
+=======
+		336E23FD1BF471C500B3844C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = "736376103@qq.com";
+				TargetAttributes = {
+					336E24041BF471C500B3844C = {
+						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = RPT7V3T44B;
+					};
+					336E241D1BF471C500B3844C = {
+						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = RPT7V3T44B;
+						TestTargetID = 336E24041BF471C500B3844C;
+					};
+					336E24281BF471C500B3844C = {
+						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = RPT7V3T44B;
+						TestTargetID = 336E24041BF471C500B3844C;
+					};
+				};
+			};
+			buildConfigurationList = 336E24001BF471C500B3844C /* Build configuration list for PBXProject "StoryBoard" */;
+>>>>>>> Jaykong/master
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -226,6 +414,7 @@
 				en,
 				Base,
 			);
+<<<<<<< HEAD
 			mainGroup = 550065171BF47219000C9BB0;
 			productRefGroup = 550065211BF47219000C9BB0 /* Products */;
 			projectDirPath = "";
@@ -234,11 +423,22 @@
 				5500651F1BF47219000C9BB0 /* StoryBoard */,
 				550065381BF47219000C9BB0 /* StoryBoardTests */,
 				550065431BF47219000C9BB0 /* StoryBoardUITests */,
+=======
+			mainGroup = 336E23FC1BF471C500B3844C;
+			productRefGroup = 336E24061BF471C500B3844C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				336E24041BF471C500B3844C /* StoryBoard */,
+				336E241D1BF471C500B3844C /* StoryBoardTests */,
+				336E24281BF471C500B3844C /* StoryBoardUITests */,
+>>>>>>> Jaykong/master
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+<<<<<<< HEAD
 		5500651E1BF47219000C9BB0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -250,13 +450,30 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		550065371BF47219000C9BB0 /* Resources */ = {
+=======
+		336E24031BF471C500B3844C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				336E24181BF471C500B3844C /* LaunchScreen.storyboard in Resources */,
+				336E24151BF471C500B3844C /* Assets.xcassets in Resources */,
+				336E24131BF471C500B3844C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		336E241C1BF471C500B3844C /* Resources */ = {
+>>>>>>> Jaykong/master
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+<<<<<<< HEAD
 		550065421BF47219000C9BB0 /* Resources */ = {
+=======
+		336E24271BF471C500B3844C /* Resources */ = {
+>>>>>>> Jaykong/master
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -266,6 +483,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+<<<<<<< HEAD
 		5500651C1BF47219000C9BB0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -289,12 +507,38 @@
 			buildActionMask = 2147483647;
 			files = (
 				550065491BF47219000C9BB0 /* StoryBoardUITests.m in Sources */,
+=======
+		336E24011BF471C500B3844C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				336E24101BF471C500B3844C /* ViewController.m in Sources */,
+				336E240D1BF471C500B3844C /* AppDelegate.m in Sources */,
+				336E240A1BF471C500B3844C /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		336E241A1BF471C500B3844C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				336E24231BF471C500B3844C /* StoryBoardTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		336E24251BF471C500B3844C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				336E242E1BF471C500B3844C /* StoryBoardUITests.m in Sources */,
+>>>>>>> Jaykong/master
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+<<<<<<< HEAD
 		5500653B1BF47219000C9BB0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 5500651F1BF47219000C9BB0 /* StoryBoard */;
@@ -304,22 +548,47 @@
 			isa = PBXTargetDependency;
 			target = 5500651F1BF47219000C9BB0 /* StoryBoard */;
 			targetProxy = 550065451BF47219000C9BB0 /* PBXContainerItemProxy */;
+=======
+		336E24201BF471C500B3844C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 336E24041BF471C500B3844C /* StoryBoard */;
+			targetProxy = 336E241F1BF471C500B3844C /* PBXContainerItemProxy */;
+		};
+		336E242B1BF471C500B3844C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 336E24041BF471C500B3844C /* StoryBoard */;
+			targetProxy = 336E242A1BF471C500B3844C /* PBXContainerItemProxy */;
+>>>>>>> Jaykong/master
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+<<<<<<< HEAD
 		5500652C1BF47219000C9BB0 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				5500652D1BF47219000C9BB0 /* Base */,
+=======
+		336E24111BF471C500B3844C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				336E24121BF471C500B3844C /* Base */,
+>>>>>>> Jaykong/master
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		550065311BF47219000C9BB0 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				550065321BF47219000C9BB0 /* Base */,
+=======
+		336E24161BF471C500B3844C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				336E24171BF471C500B3844C /* Base */,
+>>>>>>> Jaykong/master
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -327,7 +596,11 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+<<<<<<< HEAD
 		5500654B1BF47219000C9BB0 /* Debug */ = {
+=======
+		336E24301BF471C500B3844C /* Debug */ = {
+>>>>>>> Jaykong/master
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -371,7 +644,11 @@
 			};
 			name = Debug;
 		};
+<<<<<<< HEAD
 		5500654C1BF47219000C9BB0 /* Release */ = {
+=======
+		336E24311BF471C500B3844C /* Release */ = {
+>>>>>>> Jaykong/master
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -409,70 +686,118 @@
 			};
 			name = Release;
 		};
+<<<<<<< HEAD
 		5500654E1BF47219000C9BB0 /* Debug */ = {
+=======
+		336E24331BF471C500B3844C /* Debug */ = {
+>>>>>>> Jaykong/master
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StoryBoard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.StoryBoard;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = bb.StoryBoard;
+>>>>>>> Jaykong/master
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
+<<<<<<< HEAD
 		5500654F1BF47219000C9BB0 /* Release */ = {
+=======
+		336E24341BF471C500B3844C /* Release */ = {
+>>>>>>> Jaykong/master
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = StoryBoard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.StoryBoard;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = bb.StoryBoard;
+>>>>>>> Jaykong/master
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
+<<<<<<< HEAD
 		550065511BF47219000C9BB0 /* Debug */ = {
+=======
+		336E24361BF471C500B3844C /* Debug */ = {
+>>>>>>> Jaykong/master
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = StoryBoardTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.StoryBoardTests;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = bb.StoryBoardTests;
+>>>>>>> Jaykong/master
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StoryBoard.app/StoryBoard";
 			};
 			name = Debug;
 		};
+<<<<<<< HEAD
 		550065521BF47219000C9BB0 /* Release */ = {
+=======
+		336E24371BF471C500B3844C /* Release */ = {
+>>>>>>> Jaykong/master
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = StoryBoardTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.StoryBoardTests;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = bb.StoryBoardTests;
+>>>>>>> Jaykong/master
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StoryBoard.app/StoryBoard";
 			};
 			name = Release;
 		};
+<<<<<<< HEAD
 		550065541BF47219000C9BB0 /* Debug */ = {
+=======
+		336E24391BF471C500B3844C /* Debug */ = {
+>>>>>>> Jaykong/master
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = StoryBoardUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.StoryBoardUITests;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = bb.StoryBoardUITests;
+>>>>>>> Jaykong/master
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = StoryBoard;
 				USES_XCTRUNNER = YES;
 			};
 			name = Debug;
 		};
+<<<<<<< HEAD
 		550065551BF47219000C9BB0 /* Release */ = {
+=======
+		336E243A1BF471C500B3844C /* Release */ = {
+>>>>>>> Jaykong/master
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = StoryBoardUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+<<<<<<< HEAD
 				PRODUCT_BUNDLE_IDENTIFIER = com.StoryBoardUITests;
+=======
+				PRODUCT_BUNDLE_IDENTIFIER = bb.StoryBoardUITests;
+>>>>>>> Jaykong/master
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = StoryBoard;
 				USES_XCTRUNNER = YES;
@@ -482,15 +807,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+<<<<<<< HEAD
 		5500651B1BF47219000C9BB0 /* Build configuration list for PBXProject "StoryBoard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5500654B1BF47219000C9BB0 /* Debug */,
 				5500654C1BF47219000C9BB0 /* Release */,
+=======
+		336E24001BF471C500B3844C /* Build configuration list for PBXProject "StoryBoard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				336E24301BF471C500B3844C /* Debug */,
+				336E24311BF471C500B3844C /* Release */,
+>>>>>>> Jaykong/master
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+<<<<<<< HEAD
 		5500654D1BF47219000C9BB0 /* Build configuration list for PBXNativeTarget "StoryBoard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -512,10 +846,37 @@
 			buildConfigurations = (
 				550065541BF47219000C9BB0 /* Debug */,
 				550065551BF47219000C9BB0 /* Release */,
+=======
+		336E24321BF471C500B3844C /* Build configuration list for PBXNativeTarget "StoryBoard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				336E24331BF471C500B3844C /* Debug */,
+				336E24341BF471C500B3844C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		336E24351BF471C500B3844C /* Build configuration list for PBXNativeTarget "StoryBoardTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				336E24361BF471C500B3844C /* Debug */,
+				336E24371BF471C500B3844C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		336E24381BF471C500B3844C /* Build configuration list for PBXNativeTarget "StoryBoardUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				336E24391BF471C500B3844C /* Debug */,
+				336E243A1BF471C500B3844C /* Release */,
+>>>>>>> Jaykong/master
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
+<<<<<<< HEAD
 	rootObject = 550065181BF47219000C9BB0 /* Project object */;
+=======
+	rootObject = 336E23FD1BF471C500B3844C /* Project object */;
+>>>>>>> Jaykong/master
 }
