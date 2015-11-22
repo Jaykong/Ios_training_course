@@ -3,7 +3,6 @@
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9051"/>
-        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
         <!--View Controller-->
@@ -17,39 +16,14 @@
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="249" verticalHuggingPriority="249" misplaced="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tZj-7G-VLh">
-                                <rect key="frame" x="72" y="164" width="42" height="39"/>
-                                <animations/>
-                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="uzg-i3-Xxi">
-                                <rect key="frame" x="207" y="169" width="179" height="30"/>
-                                <animations/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits"/>
-                            </textField>
-                        </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
-                        <constraints>
-                            <constraint firstItem="tZj-7G-VLh" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="52" id="6VC-Dg-oA1"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="uzg-i3-Xxi" secondAttribute="trailing" constant="8" id="Wa7-Mf-Aat"/>
-                            <constraint firstItem="uzg-i3-Xxi" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="149" id="bJW-1s-jZp"/>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="uzg-i3-Xxi" secondAttribute="bottom" constant="537" id="o1G-CW-r0P"/>
-                            <constraint firstItem="tZj-7G-VLh" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="144" id="sEV-6f-e8Z"/>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="tZj-7G-VLh" secondAttribute="bottom" constant="533" id="tVz-zN-J9v"/>
-                            <constraint firstItem="uzg-i3-Xxi" firstAttribute="leading" secondItem="tZj-7G-VLh" secondAttribute="trailing" constant="93" id="u6z-o1-n7Y"/>
-                        </constraints>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="214" y="288"/>
+            <point key="canvasLocation" x="72" y="289"/>
         </scene>
     </scenes>
 </document>
