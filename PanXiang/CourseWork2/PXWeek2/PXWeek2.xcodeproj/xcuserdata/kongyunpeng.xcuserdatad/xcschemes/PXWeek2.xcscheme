@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3F2F0C501BF47162002901BD"
-               BuildableName = "PXSTB.app"
-               BlueprintName = "PXSTB"
-               ReferencedContainer = "container:PXSTB.xcodeproj">
+               BlueprintIdentifier = "3F6F44AB1C005C5900EB2F0B"
+               BuildableName = "PXWeek2.app"
+               BlueprintName = "PXWeek2"
+               ReferencedContainer = "container:PXWeek2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3F2F0C691BF47162002901BD"
-               BuildableName = "PXSTBTests.xctest"
-               BlueprintName = "PXSTBTests"
-               ReferencedContainer = "container:PXSTB.xcodeproj">
+               BlueprintIdentifier = "3F6F44C41C005C5900EB2F0B"
+               BuildableName = "PXWeek2Tests.xctest"
+               BlueprintName = "PXWeek2Tests"
+               ReferencedContainer = "container:PXWeek2.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3F2F0C741BF47162002901BD"
-               BuildableName = "PXSTBUITests.xctest"
-               BlueprintName = "PXSTBUITests"
-               ReferencedContainer = "container:PXSTB.xcodeproj">
+               BlueprintIdentifier = "3F6F44CF1C005C5900EB2F0B"
+               BuildableName = "PXWeek2UITests.xctest"
+               BlueprintName = "PXWeek2UITests"
+               ReferencedContainer = "container:PXWeek2.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F2F0C501BF47162002901BD"
-            BuildableName = "PXSTB.app"
-            BlueprintName = "PXSTB"
-            ReferencedContainer = "container:PXSTB.xcodeproj">
+            BlueprintIdentifier = "3F6F44AB1C005C5900EB2F0B"
+            BuildableName = "PXWeek2.app"
+            BlueprintName = "PXWeek2"
+            ReferencedContainer = "container:PXWeek2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F2F0C501BF47162002901BD"
-            BuildableName = "PXSTB.app"
-            BlueprintName = "PXSTB"
-            ReferencedContainer = "container:PXSTB.xcodeproj">
+            BlueprintIdentifier = "3F6F44AB1C005C5900EB2F0B"
+            BuildableName = "PXWeek2.app"
+            BlueprintName = "PXWeek2"
+            ReferencedContainer = "container:PXWeek2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3F2F0C501BF47162002901BD"
-            BuildableName = "PXSTB.app"
-            BlueprintName = "PXSTB"
-            ReferencedContainer = "container:PXSTB.xcodeproj">
+            BlueprintIdentifier = "3F6F44AB1C005C5900EB2F0B"
+            BuildableName = "PXWeek2.app"
+            BlueprintName = "PXWeek2"
+            ReferencedContainer = "container:PXWeek2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

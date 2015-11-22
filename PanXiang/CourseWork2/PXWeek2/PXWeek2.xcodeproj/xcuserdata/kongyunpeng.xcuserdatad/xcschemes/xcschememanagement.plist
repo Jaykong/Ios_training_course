@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PXSTB.xcscheme</key>
+		<key>PXWeek2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3F2F0C501BF47162002901BD</key>
+		<key>3F6F44AB1C005C5900EB2F0B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3F2F0C691BF47162002901BD</key>
+		<key>3F6F44C41C005C5900EB2F0B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3F2F0C741BF47162002901BD</key>
+		<key>3F6F44CF1C005C5900EB2F0B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
