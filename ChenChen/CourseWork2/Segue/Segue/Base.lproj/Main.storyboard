@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<<<<<<< HEAD:01/ExampleCode/StoryBoard/StoryBoard/Base.lproj/Main.storyboard
+<<<<<<< HEAD
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9060" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="opn-yA-Rma">
+=======
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9059" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="dat-NZ-FZ0">
+>>>>>>> Jaykong/master
+=======
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9059" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="xEX-Ei-xQz">
+>>>>>>> Jaykong/master:ChenChen/CourseWork2/Segue/Segue/Base.lproj/Main.storyboard
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9051"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+<<<<<<< HEAD:01/ExampleCode/StoryBoard/StoryBoard/Base.lproj/Main.storyboard
+<<<<<<< HEAD
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8ue-4D-8kd">
+                                <rect key="frame" x="271" y="279" width="32" height="30"/>
+                                <animations/>
+                                <state key="normal" title="click"/>
+                                <connections>
+                                    <segue destination="tLZ-Gh-z9S" kind="show" id="R8e-jb-hJU"/>
+=======
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rUf-V9-qot">
+                                <rect key="frame" x="191" y="170" width="46" height="30"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="YrV-wK-CTs" kind="show" id="dQ4-vH-U1l"/>
+>>>>>>> Jaykong/master
+=======
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C7a-IK-mn7">
+                                <rect key="frame" x="257" y="219" width="46" height="30"/>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <segue destination="WDb-Bg-Eoo" kind="show" id="EXj-cy-wFl"/>
+>>>>>>> Jaykong/master:ChenChen/CourseWork2/Segue/Segue/Base.lproj/Main.storyboard
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8BZ-1v-xYf">
+                                <rect key="frame" x="257" y="347" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                    </view>
+<<<<<<< HEAD:01/ExampleCode/StoryBoard/StoryBoard/Base.lproj/Main.storyboard
+<<<<<<< HEAD
+                    <navigationItem key="navigationItem" id="4qp-mg-jhq"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1117" y="344"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="GLL-de-WGU">
+            <objects>
+                <viewController id="tLZ-Gh-z9S" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="BcT-cG-J5E"/>
+                        <viewControllerLayoutGuide type="bottom" id="mPs-cR-Uu8"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="rAc-C7-bzU">
+=======
+                    <navigationItem key="navigationItem" id="33e-Sa-FjO"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1117" y="429"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="6uc-ht-89W">
+            <objects>
+                <viewController id="YrV-wK-CTs" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="01Z-7s-XyH"/>
+                        <viewControllerLayoutGuide type="bottom" id="2cO-Qc-gAf"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="QcD-ZT-NiY">
+>>>>>>> Jaykong/master
+=======
+                    <navigationItem key="navigationItem" id="vSJ-FI-GMd"/>
+                    <connections>
+                        <outlet property="label" destination="8BZ-1v-xYf" id="S4K-qX-u6s"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="336" y="552"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="gUh-dC-I2x">
+            <objects>
+                <viewController id="WDb-Bg-Eoo" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="SDK-Y7-QLZ"/>
+                        <viewControllerLayoutGuide type="bottom" id="sOF-JE-TbW"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="hyR-Uy-eq3">
+>>>>>>> Jaykong/master:ChenChen/CourseWork2/Segue/Segue/Base.lproj/Main.storyboard
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+<<<<<<< HEAD:01/ExampleCode/StoryBoard/StoryBoard/Base.lproj/Main.storyboard
+<<<<<<< HEAD
+                <placeholder placeholderIdentifier="IBFirstResponder" id="eE0-da-hLd" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="561" y="1155"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="UYT-5x-Xur">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="opn-yA-Rma" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Y4w-vi-C5O">
+=======
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Dbe-fQ-BKS" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1521" y="634"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="3vM-wc-NAu">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="dat-NZ-FZ0" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="c6j-hh-Ehc">
+>>>>>>> Jaykong/master
+=======
+                <placeholder placeholderIdentifier="IBFirstResponder" id="e5i-2J-y7t" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="322" y="1353"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="JD4-5h-3GA">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="xEX-Ei-xQz" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="gFa-ya-sZy">
+>>>>>>> Jaykong/master:ChenChen/CourseWork2/Segue/Segue/Base.lproj/Main.storyboard
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+<<<<<<< HEAD:01/ExampleCode/StoryBoard/StoryBoard/Base.lproj/Main.storyboard
+<<<<<<< HEAD
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="sym-0S-2X0"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="XYJ-xz-z7f" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-340" y="588"/>
+=======
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="dST-6B-Jod"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="h12-O3-Utp" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="513" y="1294"/>
+>>>>>>> Jaykong/master
+=======
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="RdD-Hf-piZ"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5LN-4J-r4H" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-507" y="740"/>
+>>>>>>> Jaykong/master:ChenChen/CourseWork2/Segue/Segue/Base.lproj/Main.storyboard
+        </scene>
+    </scenes>
+</document>
